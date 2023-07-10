@@ -4,7 +4,7 @@ This article is about sending WhatsApp messages from ESP32 to my Android smartph
 
 https://www.callmebot.com/blog/free-api-whatsapp-messages/
 
-Follow the instructions in this page, get an API key
+Follow the instructions in this page, get an API key.
 
 Embed this into the ESP32 code, 
 
